@@ -7,6 +7,8 @@ Para ejecutar los comandos es necesario tener instalado Python en el computador
 Comandos para la ejecucion del codigo:
 
 Python AlmacenamientoCloud.py
+
 Python Edge.py
+
 Python fog.py
 
