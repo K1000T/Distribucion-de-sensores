@@ -12,3 +12,4 @@ Python Edge.py
 
 Python fog.py
 
+Asegurese de ejecutarlos en orden
